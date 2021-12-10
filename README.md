@@ -6,6 +6,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ### FUTURE: Add more functionality with Backend.
 
+Cloned from [https://github.com/revell29/Travel_website-NextJS](Travel_website_NextJS)
+
 First, run the development server:
 
 ```bash
