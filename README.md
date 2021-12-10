@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+### A simple Travel site, using Next.js with Tailwindcss
+
+### FUTURE: Add more functionality with Backend.
+
 First, run the development server:
 
 ```bash
